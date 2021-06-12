@@ -18,5 +18,6 @@ package main
 import "github.com/gitpod/mycli/cmd"
 
 func main() {
+	// This comment has been included by myself
 	cmd.Execute()
 }
